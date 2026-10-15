@@ -18,6 +18,7 @@ function klikTarget() {
 function ulangiGame() {
   skor.value = 0
   pesan.value = 'Klik target untuk mendapatkan skor!'
+  
 }
 </script>
 

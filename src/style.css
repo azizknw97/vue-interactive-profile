@@ -37,7 +37,7 @@ body {
 
 h1 {
   margin: 16px 0;
-  font-size: 30px;
+  font-size: 35px;
 }
 
 .description {
@@ -54,7 +54,7 @@ h1 {
 
 .score-box span {
   display: block;
-  color: #6366f1;
+  color: #f1c963;
   font-size: 12px;
   font-weight: bold;
   letter-spacing: 2px;
